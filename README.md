@@ -1,14 +1,18 @@
-# Command-Shell
+**Name: Ayush Mahapatra**
+**CS Login: amahapatra**
+**Email: mahapatra3@wisc.edu**
+**Status of implementation: Done. Passed all tests**
 
 
-This is one of the projects from my CS537 Operating Systems Class.
+**Resources**
 
-I implemented a command shell prompt. 
-I specifically handled 6 different command line functions:
+**https://stackoverflow.com/questions/33715129/how-to-check-if-child-process-is-finished-in-c-by-its-pid**
+**Used to find out how a child process finished**
 
-1. exit - exit from the command prompt
-2. fg - bring job(s) into the foreground
-3. bg - bring job(s) into the background
-4. cd - change directories 
-5. jobs - print all the jobs that are running the background or have been suspended
+**https://www.gnu.org/software/libc/manual/html_node/Job-Control-Signals.html**
+**Used to figure out macros for the signals and how hey work**
+
+**https://stackoverflow.com/questions/8082932/connecting-n-commands-with-pipes-in-a-shell**
+**Used this to understand how to connect multiple piped commands**
+
 
