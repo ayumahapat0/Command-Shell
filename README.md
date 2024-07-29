@@ -3,6 +3,21 @@
 **Email: mahapatra3@wisc.edu**
 **Status of implementation: Done. Passed all tests**
 
+#### Implemented a Command Shell Prompt
+
+#### Implemented algorithm to using pipes by using forking
+
+#### Implemented 5 specific bash commands:
+
+##### exit: exit the command shell prompt
+
+##### cd: change directory
+
+##### bg: bring process into the background based on id
+
+##### fg: bring process into the foreground based on id
+
+##### jobs: display jobs that are suspended or running in the background
 
 **Resources**
 
